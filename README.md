@@ -16,8 +16,8 @@ Computer scientists use a wide variety of tools and methods to analyze problems 
 
 **How do I approach a problem as a computer scientist?**
 
-As a computer scientist, when I approach a problem I like to get as much information about the problem as possible, and then I check and see if I can pull advice from others who have had this (or a similar) problem in the past. I think it's important to consider that the breadth of knowledge in any science is incredible, and we're all standing on the shoulders of giants so to speak, so someone else's experiences might be able to help inform my methods for solving a proble
+As a computer scientist, when I approach a problem I like to get as much information about the problem as possible, and then I check and see if I can pull advice from others who have had this (or a similar) problem in the past. I think it's important to consider that the breadth of knowledge in any science is incredible, and we're all standing on the shoulders of giants so to speak, so someone else's experiences might be able to help inform my methods for solving a problem.
 
 **What are my ethical responsibilities to the end user and the organization?**
 
-My ethical responsibilities are largely to do no harm and to respect the privacy of the end user, and the integrity of the organization. The first aspect is really important when we consider problem0solving using an AI driven approach, because the models are only as good as the algorithms we use and the data we train them on, it is important to be broad and inclusive when using an AI for anything that involves people.
+My ethical responsibilities are largely to do no harm and to respect the privacy of the end user, and the integrity of the organization. The first aspect is really important when we consider problem solving using an AI driven approach, because the models are only as good as the algorithms we use and the data we train them on, it is important to be broad and inclusive when using an AI for anything that involves people.
